@@ -1,0 +1,8 @@
+ecosystem.config.js
+node_modules
+package-lock.json
+.env
+version_git.json
+versionGit.sh
+version_git_fontend.json
+.idea
